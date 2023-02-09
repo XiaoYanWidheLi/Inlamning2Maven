@@ -7,14 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27cdd3af-a98e-4dbf-ba17-d68293a0f14e" name="Changes" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="27cdd3af-a98e-4dbf-ba17-d68293a0f14e" name="Changes" comment="Maven project done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/BookCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/BookCatalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/BookCatalogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/LoanTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,9 @@
       <updated>1674995017064</updated>
       <workItem from="1674995019566" duration="346000" />
       <workItem from="1675513433288" duration="21087000" />
-      <workItem from="1675866535925" duration="7351000" />
+      <workItem from="1675866535925" duration="8008000" />
+      <workItem from="1675966569769" duration="595000" />
+      <workItem from="1675967269416" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1674995291891</created>
@@ -103,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674995291891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Maven project done">
+      <created>1675921629665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675921629665</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Maven project done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maven project done" />
   </component>
 </project>

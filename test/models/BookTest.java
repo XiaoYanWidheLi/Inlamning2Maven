@@ -19,6 +19,6 @@ class BookTest {
 	public void test2NonEqualBooks() {
 		Book book1 = new Book(1,"Learning Java","","","",0);
 		Book book2 = new Book(2,"Rasing a kid","","","",0);
-		assertEquals(book1, book2);
+		assertNotEquals(book1, book2);
 	}
 }
