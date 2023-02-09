@@ -1,6 +1,9 @@
 package models;
 
-
+/**
+ * This is the BookCatalog class that keeps track of all the books in the library
+ **
+ */
 public class BookCatalog {
 
 	private Book[] bookArray = new Book[100];
